@@ -24,10 +24,10 @@
   <a href="mailto:munavarmunna101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/Munavar-PM" target="_blank">
+  <a href="https://linkedin.com/in/munavar-pm-340586242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://MunavarPM.github.io" target="_blank">
+  <a href="https://[MunavarPM.github.io](https://leetcode.com/Munavar_PM/)" target="_blank">
      <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
