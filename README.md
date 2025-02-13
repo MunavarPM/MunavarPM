@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **a e-commerce app**
  
- 🌱 I’m currently learning **Concurrency, Cocoapods, Performance optimization**
+ 🌱 I’m currently learning **Concurrency, code optimization, Performance optimization**
 
- 💬 Ask me about **Concurrency, Cocoapods, Performance optimization... or anything [here](https://github.com/MunavarPM/MunavarPM/issues)**
+ 💬 Ask me about **Concurrency, swiftUI, Performance optimization... or anything [here](https://github.com/MunavarPM/MunavarPM/issues)**
 
- ⚡ Fun fact **I am always not satisfied with my UI's**
+ ⚡ Fun fact **I am always not satisfied with my UI's 🤪**
  
  </div>
  
