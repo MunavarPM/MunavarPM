@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a e-commerce app**
+ 🔭 I’m currently working on **for coporate company**
  
- 🌱 I’m currently learning **Concurrency, code optimization, Performance optimization**
+ 🌱 I’m currently concentrating **Concurrency, code Architecture and Design pattern, Performance optimization**
 
  💬 Ask me about **Concurrency, swiftUI, Performance optimization... or anything [here](https://github.com/MunavarPM/MunavarPM/issues)**
 
