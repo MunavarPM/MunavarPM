@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **for coporate company**
+ 🔭 I’m currently working on **for Corporate company**
  
  🌱 I’m currently concentrating **Concurrency, code Architecture and Design pattern, Performance optimization**
 
