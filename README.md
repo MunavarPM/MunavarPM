@@ -17,7 +17,7 @@
 
  💬 Ask me about **Concurrency, swiftUI, Performance optimization... or anything [here](https://github.com/MunavarPM/MunavarPM/issues)**
 
- ⚡ Fun fact **I am always not satisfied with my Struct View's 🤪**
+ ⚡ Fun fact **I am always not satisfied with my Struct View's and Logic side🤪**
  
  </div>
  
