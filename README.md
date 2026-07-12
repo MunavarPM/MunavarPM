@@ -1,23 +1,22 @@
-
 <a href="https://visitorbadge.io/status?path=MunavarPM"><img align="right" src="https://api.visitorbadge.io/api/visitors?path=MunavarPM&label=VISITORS&countColor=%23263759" /></a>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MunavarPM!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Munavar+PM!;" />
 </h1>
 
-<h3 align="center">A Software Developer Who Have Mad With Apple OS .</h3>
+<h3 align="center">Senior iOS Developer | Passionate about the Apple Ecosystem 🍎</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **for Corporate company**
+ 🔭 I’m currently working as an **iOS Engineer** at **Applaunch.io**, building highly scalable and user-focused applications.
  
- 🌱 I’m currently concentrating **Concurrency, code Architecture and Design pattern, Performance optimization**
+ 🌱 My current technical focus revolves around **SwiftUI, Concurrency (Async/Await), MVVM Architecture, and Application Security**.
 
- 💬 Ask me about **Concurrency, swiftUI, Performance optimization... or anything [here](https://github.com/MunavarPM/MunavarPM/issues)**
+ 💬 Ask me about **Swift, performance optimization, clean architecture, or anything iOS [here](https://github.com/MunavarPM/MunavarPM/issues)!**
 
- ⚡ Fun fact **I am always not satisfied with my Struct View's and Logic side🤪**
+ ⚡ Fun fact: **I'm a bit of a perfectionist—I'm never fully satisfied with my View Structs and always looking for cleaner ways to refactor! 🤪**
  
  </div>
  
@@ -29,13 +28,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://leetcode.com/Munavar_PM/" target="_blank">
-     <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=swift,firebase,github,java,javascript" /><br>
@@ -58,8 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=MunavarPM&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MunavarPM&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- Removed count_private=true to fix the Vercel API timeout issue -->
+  <img width=390 src="https://streak-stats.demolab.com/?user=MunavarPM&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MunavarPM&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunavarPM&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
@@ -68,8 +68,5 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+🚀">
 </h3>
-
-<br/>
-
